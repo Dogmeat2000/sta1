@@ -5,3 +5,6 @@
 4. [Assignment 4: One- and Two-Sample Tests](assignment4/assignment4.ipynb)
 5. [Assignment 5: ANOVA and Simple Linear Regression](assignment5/assignment5.ipynb)
 6. [Assignment 6: Categorical Data and Chi-Square Analysis](assignment6/assignment6.ipynb)
+
+## Group project:
+6. [Assignment 6: Categorical Data and Chi-Square Analysis](group-project/assignment6.ipynb)
